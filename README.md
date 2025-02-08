@@ -29,7 +29,7 @@ Each room is designed with creative puzzles, monsters, and twists to keep the ad
 ### 📂 Supporting Files  
 - 🖥️ **Python Code**: Several Python files work together to create the game. Deploy them in Anaconda to the game.  
 - 📄 **UML Diagram**: The uml.pdf file is included to explain how OOP powers the game.  
-- 🗺️ **Game Map**: The Hippo Quest.pdf file outlines how the game works and provides a visual map of the maze.  
+- 🗺️ **Game Map**: The Hippo Quest.pdf file outlines how the game works and provides a visual map of the maze, alongside providing a more detailed explanation of how the game was created.  
 
 I hope you enjoy it! 🚀🗡️  
 
